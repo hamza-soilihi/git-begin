@@ -2,4 +2,4 @@ git clone https://github.com/hamza-soilihi/git-begin.git
 git add .
 git commit -m "jajoute"
 git push
- 
+git pull
